@@ -1,0 +1,11 @@
+C:\Users\Kenneth\source\repos\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp2.1\StockAnalyzer.deps.json
+C:\Users\Kenneth\source\repos\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp2.1\StockAnalyzer.runtimeconfig.json
+C:\Users\Kenneth\source\repos\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp2.1\StockAnalyzer.runtimeconfig.dev.json
+C:\Users\Kenneth\source\repos\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp2.1\StockAnalyzer.dll
+C:\Users\Kenneth\source\repos\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp2.1\StockAnalyzer.pdb
+C:\Users\Kenneth\source\repos\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp2.1\StockAnalyzer.csprojAssemblyReference.cache
+C:\Users\Kenneth\source\repos\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp2.1\StockAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp2.1\StockAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp2.1\StockAnalyzer.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp2.1\StockAnalyzer.dll
+C:\Users\Kenneth\source\repos\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp2.1\StockAnalyzer.pdb
